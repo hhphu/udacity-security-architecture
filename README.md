@@ -1,7 +1,7 @@
 # Udacity Security Architect
 
 ## Overview
-This contains all projects completed from Udacity's [Security Architect Nanodegree](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063). 
+This contains all projects completed from Udacity's **[Security Architect Nanodegree](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063)**. 
 
 
 ## Projects
