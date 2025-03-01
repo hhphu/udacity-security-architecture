@@ -1,4 +1,31 @@
-# Security Architect
+# Udacity Security Architect
+
+## Overview
+This contains all projects completed from Udacity's [Security Architect Nanodegree](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063). 
+
+
+## Projects
+
+### Design for Availability, Reliability, and Resiliency
+#### Project link: https://github.com/hhphu/aws-design-for-availability-reliability-resiliency
+#### Skills/Technology:
+`AWS availability zones` `Amazon CloudWatch` `Disaster recovery plans`  `Amazon vpc`   `Recovery point objective`   `Recovery time objective`   `Iam roles`   `Cloud security in AWS`   `Iam users`   `AWS cloudtrail`   `Iam policies`   `Cloud availability`   `AWS IAM`   `AWS autoscaling`
+
+
+### Design for Performance and Scalability
+#### Project link: https://github.com/hhphu/aws-design-for-performance-scalability
+#### Skills/Technology:
+`Terraform`   `Cloud performance management`   `AWS cost explorer`   `Cloud computing fluency`   `AWS cli`   `AWS autoscaling`   `Infrastructure as code`   `AWS lambda`   `Amazon rds`   `Amazon s3`   `Amazon ECS`  ` Lucidchart`   `Amazon elastic compute cloud`   `AWS server migration`
+
+
+### Design for Security
+#### Project link: https://github.com/hhphu/aws-design-for-security
+#### Skills/Technology:
+`Cloud security in AWS`   `AWS key management service`   `Data encryption in AWS`   `AWS IAM`   `AWS encryption sdk`   `Principle of least privilege`   `Amazon inspector`   `Iam policies`   `AWS waf`   `AWS config`   `Network access control lists`   `Amazon guardduty`   `AWS security hub`   `DevSecOps in AWS`   `AWS vpn`
+
+
+##### [View Certificate](www.udacity.com/certificate/e/e549d630-2b63-11ee-90de-cb74611177a5)
+
 
 ![HeaderImage](https://media.licdn.com/dms/image/D4E12AQFD_We6L5APAw/article-cover_image-shrink_600_2000/0/1676991484108?e=2147483647&v=beta&t=a5wr0yTmC9i5qKhityROd6TDdKmP6u1jHGsZpaRki6I)
 
