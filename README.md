@@ -25,7 +25,7 @@ This contains all projects completed from Udacity's **[Security Architect Nanode
 `Cloud security in AWS`   `AWS key management service`   `Data encryption in AWS`   `AWS IAM`   `AWS encryption sdk`   `Principle of least privilege`   `Amazon inspector`   `Iam policies`   `AWS waf`   `AWS config`   `Network access control lists`   `Amazon guardduty`   `AWS security hub`   `DevSecOps in AWS`   `AWS vpn`
 
 
-##### [View Certificate](www.udacity.com/certificate/e/e549d630-2b63-11ee-90de-cb74611177a5)
+##### [View Certificate](https://www.udacity.com/certificate/e/e549d630-2b63-11ee-90de-cb74611177a5)
 
 
 ![HeaderImage](https://media.licdn.com/dms/image/D4E12AQFD_We6L5APAw/article-cover_image-shrink_600_2000/0/1676991484108?e=2147483647&v=beta&t=a5wr0yTmC9i5qKhityROd6TDdKmP6u1jHGsZpaRki6I)
