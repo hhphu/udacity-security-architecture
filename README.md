@@ -8,10 +8,6 @@ This contains all projects completed from Udacity's **[Security Architect Nanode
 ##### [View Certificate](https://www.udacity.com/certificate/e/e549d630-2b63-11ee-90de-cb74611177a5)
 
 ## Projects
-
-This project introduces the fundamental security planning, design, and systems thinking concepts that are used throughout security architecture. As networks and applications grow more complex, the need to identify potential sources of weakness that are a product of that complexity becomes crucial. Upon completion, I obtained the skills to identify and evaluate risks in systems, assess whether or not risks are acceptable, and work alongside stakeholders to prioritize remediation efforts.
-    - Conducted a security assessment to identify risks and policy violations in an existing Customer Information Management System (CIMS)
-    - Provided recommendations for new designs for a more secure and robust architecture that is compliant with PCI DSS and SOX    
 These mini projects equip me skills and strategies to implement elements of security infrastructure design and management at an enterprise level. As a security architect, I will be charged with designing security systems to thwart malware, hacker intrusions and Denial of Service attacks. The addressed security topics is concerned with architectural and implementation skills required by a skilled cybersecurity professional for critical use-cases like identity & access management, infrastructure security, threat detection and incident response.
 
 1. [Security Architecture Planning and Design](./security-architecture-planning-design)
