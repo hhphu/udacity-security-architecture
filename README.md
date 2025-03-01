@@ -3,7 +3,7 @@
 ![HeaderImage](https://media.licdn.com/dms/image/D4E12AQFD_We6L5APAw/article-cover_image-shrink_600_2000/0/1676991484108?e=2147483647&v=beta&t=a5wr0yTmC9i5qKhityROd6TDdKmP6u1jHGsZpaRki6I)
 
 ## Overview
-This contains all projects completed from Udacity's **[Security Architect Nanodegree](https://www.udacity.com/course/aws-cloud-architect-nanodegree--nd063)**. 
+This contains all projects completed from Udacity's **[Security Architect Nanodegree](https://www.udacity.com/course/security-architect-nanodegree--nd992)**. 
 
 ##### [View Certificate](https://www.udacity.com/certificate/e/e549d630-2b63-11ee-90de-cb74611177a5)
 
