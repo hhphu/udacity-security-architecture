@@ -6,10 +6,11 @@ This contains all projects completed from Udacity's [Security Architect Nanodegr
 
 ## Projects
 
-### Design for Availability, Reliability, and Resiliency
+### Security Architecture Planning and Design
 #### Project link: https://github.com/hhphu/aws-design-for-availability-reliability-resiliency
 #### Skills/Technology:
-`AWS availability zones` `Amazon CloudWatch` `Disaster recovery plans`  `Amazon vpc`   `Recovery point objective`   `Recovery time objective`   `Iam roles`   `Cloud security in AWS`   `Iam users`   `AWS cloudtrail`   `Iam policies`   `Cloud availability`   `AWS IAM`   `AWS autoscaling`
+`Cybersecurity business context` `Cybersecurity risk management` `Secure application architecture design` `Cybersecurity standards fluency` `hreat modeling` `Draw.io ``Security risk classification` `Gdpr` `Pci-dss` `Cybersecurity trust models` `Ccpa` `Iso 27001` `Nist cybersecurity framework` `Cybersecurity framework implementation` `Hipaa` `Cybersecurity grc`
+
 
 
 ### Design for Performance and Scalability
